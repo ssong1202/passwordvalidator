@@ -1,5 +1,5 @@
 package com.example.song.passwordvalidator;
-// song sheng nan
+// Shengnan Song B00735789
 public class Validator {
     private int x;
     public int Valid(String password){
